@@ -1,0 +1,19 @@
+{
+  "name": "geolocation-compass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "start": "browser-sync start --directory --server --files \"*.css, *.html, *.js\" --https"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danaalami-cloud/Geolocation-compass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danaalami-cloud/Geolocation-compass/issues"
+  },
+  "homepage": "https://github.com/Danaalami-cloud/Geolocation-compass#readme"
+}
